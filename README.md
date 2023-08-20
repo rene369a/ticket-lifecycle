@@ -43,7 +43,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   <img width="1670" alt="Screenshot 2023-08-19 at 6 42 27 PM" src="https://github.com/rene369a/ticket-lifecycle/assets/142533276/0ef2d0de-f08b-441d-9acc-0334193ffbd3">
 </p>
 <p>
-- Users (customersa) input a brief description of their issue, based on the help topic.
+- Users (customers) input a brief description of their issue, based on the help topic.
 
   - They input neccessarry information
   - Brief description of prolem
